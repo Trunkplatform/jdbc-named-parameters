@@ -1,4 +1,4 @@
-package com.axiomalaska.jdbc;
+package com.trunk.jdbc;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThat;
@@ -11,9 +11,8 @@ import static org.hamcrest.core.Is.is;
 
 import org.junit.Test;
 
-import com.axiomalaska.jdbc.NamedParameterPreparedStatement;
-import com.axiomalaska.jdbc.NamedParameterPreparedStatement.ParseResult;
 import com.google.common.collect.Lists;
+import com.trunk.jdbc.NamedParameterPreparedStatement.ParseResult;
 
 public class TestNamedParameterPreparedStatement {
     @Test

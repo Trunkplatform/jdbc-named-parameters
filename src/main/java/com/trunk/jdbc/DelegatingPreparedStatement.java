@@ -1,4 +1,4 @@
-package com.axiomalaska.jdbc;
+package com.trunk.jdbc;
 
 import java.io.InputStream;
 import java.io.Reader;

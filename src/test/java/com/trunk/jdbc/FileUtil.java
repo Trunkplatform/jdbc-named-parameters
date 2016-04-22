@@ -1,4 +1,4 @@
-package com.axiomalaska.jdbc;
+package com.trunk.jdbc;
 
 import java.io.BufferedReader;
 import java.io.File;
